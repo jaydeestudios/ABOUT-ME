@@ -3,7 +3,7 @@
 I am a **Software Engineering & Computer Science student** currently in Ghana. I’m passionate about building clean, functional web applications and exploring the world of cybersecurity.
 
 ### 🚀 What I'm working on
-- 💻 Developing high-end web platforms (like **PremiumPilot**).
+- 💻 Developing interactive web platforms.
 - 🛡️ Diving deep into **Ethical Hacking** and network security using Kali Linux.
 - 📱 Building mobile interfaces with **Flutter**.
 
